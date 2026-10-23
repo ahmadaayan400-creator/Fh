@@ -953,9 +953,9 @@ do
 	}
 	if hasTarget == "yes" and targetName then
 		if playerGender == "girl" then
-			messages[3] = "HEY " .. targetName .. " 🎀 CUTIE " .. playerName .. " NE V3 LOAD KIYA 😍👌🏼"
+			messages[3] = "SUN " .. targetName .. " AB TU GYI KYUKI 🎀 CUTIE " .. playerName .. " NE V3 LOAD KIYA 😍👌🏼"
 		else
-			messages[3] = "HEY " .. targetName .. " 😎 " .. playerName .. " NE V3 LOAD KIYA, ENJOY THE SHOW 👌🏼"
+			messages[3] = "👽 " .. targetName .. "YOUR PAPA 😍 " .. playerName .. " NE APNA V3 LOAD KRLIYA 👽🫴🏼, ENJOY THE SHOW 👌🏼"
 		end
 	end
 
