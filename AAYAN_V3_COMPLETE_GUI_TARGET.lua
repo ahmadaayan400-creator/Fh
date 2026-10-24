@@ -1836,7 +1836,7 @@ end
 
 tab("INFO 📊",P1)
 tab("OWNER 🚩",P2)
-tab("FEATURES ✨",P3)
+tab("ADMIN 🔲",P3)
 tab("PANEL 💀",P4)
 tab("SPAMMER 🌀",P5)
 tab("FUN 💥",P6)
@@ -1960,7 +1960,7 @@ btn("BANG ⚠️", P4, function() startTroll("bang") end)
 btn("HEADSIT 👽", P4, function() startTroll("headsit") end)
 btn("FRONT SIT 💢", P4, function() startTroll("frontsit") end)
 
-btn("👺 FRONT HEADSIT", P1, function()
+btn("👺 FRONT HEADSIT", P4, function()
     _G.Loop = true
     local t = getT()
     spawn(function()
@@ -2278,12 +2278,13 @@ btn("🎵 DJ PLAYER",P7,function()
 end)
 
 
-btn("funV1 💀", P6, function() 
+btn("BANGER 1💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
-    .. " ___________________________________________ "
-    .. "BANG 💥"
-    .. " made by " .. playerName
-    .. " loaded..👀"
+    .. " ----------//----------\\----------//-----------\\ "
+    .. "BEST BANGER IN THE WORLD 👽👀______ "
+    .. "TARGET BE LIKE: AB KYA KARU 😭😂_____ "
+    .. "MADE BY " .. playerName
+    .. " | V1 BANGER LOADED 💀..."
 
 local channel = game:GetService("TextChatService")
     :FindFirstChild("TextChannels")
@@ -2296,15 +2297,76 @@ if channel then
     end)
 		end		
 		
-loadstring(game:HttpGet("https://pastebin.com/raw/Gk24KYmb"))() end)
+loadstring(game:HttpGet("https://pastebin.com/raw/rnZWws3z"))() end)
 
-btn("fun V2💀", P6, function() loadstring(game:HttpGet("https://pastebin.com/raw/X73d41m6"))() end)
-btn("fun 3 💀", P6, function() loadstring(game:HttpGet("https://pastebin.com/raw/TsLFDeKw"))() end)
-btn("MULTI TARGET 💥🕷️", P6, function() loadstring(game:HttpGet("https://pastebin.com/raw/6f0Kfemd"))() end)
-btn("HUB 🔥💢", P6, function() loadstring(game:HttpGet("https://pastebin.com/raw/EgVAYt7U"))() end)
+btn("BANGER 2💀", P6, function() 
+local message = "SCRIPT BY " .. playerName
+.. " ----------//----------\----------//---------- "
+.. "BANGER 2.0 💥😈 "
+.. "WORLD'S MOST WANTED BANGGER 👽☠️ "
+.. "TARGET BE LIKE: AB TO MERI C ME 🤭 😭😂 "
+.. "----------//----------\----------//---------- "
+.. "MADE BY " .. playerName
+.. " | BANGER V2 LOADED 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+:FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+pcall(function()
+channel:SendAsync(message)
+end)
+		end
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/X73d41m6"))() end)
+btn("BANGER 3 💀", P6, function() 
+local message = "SCRIPT BY " .. playerName
+    .. " ----------//----------\\----------//---------- "
+    .. "BANGER V3: NO MERCY 👹⚡ "
+    .. "______ "
+    .. "SERVER ME ENTRY, SABKI ENERGY LOW_____ 😈💀 "
+    .. "TARGET BE LIKE: YE KYA AA GAYA 😭👽 "
+    .. "----------//----------\\----------//---------- "
+    .. "BUILT DIFFERENT BY " .. playerName
+    .. " | BANGER 3 LOADED 🥶🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end		
+loadstring(game:HttpGet("https://pastebin.com/raw/TsLFDeKw"))() end)
+btn("MULTI TARGET 💥🕷️", P6, function() 
+local message = "SCRIPT BY " .. playerName
+    .. " ____//____MULTI TARGET BANGER 💀🔥____//____ "
+    .. "~~~~~~~~~~~~~👽☠️ "
+    .. "BEST MULTI TARGET BANG EVER 😈⚡ "
+    .. "______ "
+    .. "REACTION BE LIKE: BHAI YE KYA HAI 😭😂 "
+    .. "____//____ MADE BY " .. playerName
+    .. " ____| MULTI BANGER LOADED 💥👀..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end		
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/6f0Kfemd"))() end)
+btn(" BANGGER V4HUB 🔥💢", P6, function() loadstring(game:HttpGet("https://pastebin.com/raw/EgVAYt7U"))() end)
 btn("VOID WALKER ✨", P6, function() loadstring(game:HttpGet("https://pastefy.app/RdQmPLSO/raw"))() end)
-
-
 
 
 --==================================================
