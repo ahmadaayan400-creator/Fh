@@ -2301,11 +2301,11 @@ loadstring(game:HttpGet("https://pastebin.com/raw/rnZWws3z"))() end)
 
 btn("BANGER 2💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
-.. " ----------//----------\----------//---------- "
+.. " \----------//----------\----------// "
 .. "BANGER 2.0 💥😈 "
-.. "WORLD'S MOST WANTED BANGGER 👽☠️ "
+.. "______ 👽☠️ "
 .. "TARGET BE LIKE: AB TO MERI C ME 🤭 😭😂 "
-.. "----------//----------\----------//---------- "
+.. "-______ "
 .. "MADE BY " .. playerName
 .. " | BANGER V2 LOADED 💀🔥..."
 
@@ -2323,10 +2323,10 @@ end)
 loadstring(game:HttpGet("https://pastebin.com/raw/X73d41m6"))() end)
 btn("BANGER 3 💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
-    .. " ----------//----------\\----------//---------- "
+    .. " \\----------//----------\\----------// "
     .. "BANGER V3: NO MERCY 👹⚡ "
-    .. "______ "
-    .. "SERVER ME ENTRY, SABKI ENERGY LOW_____ 😈💀 "
+    .. "---"
+    .. "😈💀---"
     .. "TARGET BE LIKE: YE KYA AA GAYA 😭👽 "
     .. "----------//----------\\----------//---------- "
     .. "BUILT DIFFERENT BY " .. playerName
@@ -2348,10 +2348,10 @@ local message = "SCRIPT BY " .. playerName
     .. " ____//____MULTI TARGET BANGER 💀🔥____//____ "
     .. "~~~~~~~~~~~~~👽☠️ "
     .. "BEST MULTI TARGET BANG EVER 😈⚡ "
-    .. "______ "
-    .. "REACTION BE LIKE: BHAI YE KYA HAI 😭😂 "
-    .. "____//____ MADE BY " .. playerName
-    .. " ____| MULTI BANGER LOADED 💥👀..."
+    .. "______"
+    .. " 😭😂 "
+    .. "//____ MADE BY " .. playerName
+    .. " ____MULTI BANGER LOADED 💥👀..."
 
 local channel = game:GetService("TextChatService")
     :FindFirstChild("TextChannels")
