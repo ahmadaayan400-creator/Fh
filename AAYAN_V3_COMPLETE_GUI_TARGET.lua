@@ -2113,31 +2113,24 @@ end)
 --==================================================
 
 btn("CUSTOM SPAM 😎👺",P5,function()
-	loadstring(game:HttpGet(
-		"https://pastebin.com/raw/FVLWdWWy"
-	))()
-end)
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/FVLWdWWy"))()end)
 
 btn("ROAST SPAM 💢🤬",P5,function()
-	loadstring(game:HttpGet(
-		"https://pastebin.com/raw/crWrmZMT"
-	))()
-end)
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/crWrmZMT"))()end)
+
 btn("ULTIMATE SPAM 💥⚠️",P5,function()
-	loadstring(game:HttpGet(
-		"https://pastebin.com/raw/BKt9y40g"
-	))()
-end)
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/BKt9y40g"))()end)
+
 btn("ALPHA EMPIRE ⛩️😼",P5,function()
-	loadstring(game:HttpGet(
-		"https://pastebin.com/raw/Bm3p4tnh"
-	))()
-end)
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/Bm3p4tnh"))()end)
+
 btn("FORBID 🚫☣️",P5,function()
-	loadstring(game:HttpGet(
-		"https://gist.githubusercontent.com/forbidtherobloxscripter/3e1a67cdf3f22192307218825c8469ea/raw/d16fabac096433b08eb63170274af33c8345603e/fm%25201.5.txt"
-	))()
-end)
+	
+loadstring(game:HttpGet("https://gist.githubusercontent.com/forbidtherobloxscripter/3e1a67cdf3f22192307218825c8469ea/raw/d16fabac096433b08eb63170274af33c8345603e/fm%25201.5.txt"))()end)
 
 
 
@@ -2263,9 +2256,6 @@ btn("TELEPORTER V2 👾", P11, function() loadstring(game:HttpGet("https://paste
 
 -- YOU WILL ADD HERE  (UNIVERSAL BANG 3F button)
 
-btn("TROLL ADMIN 🔥", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/ZnAdZPW1"))() end)
-btn("INFINITE YEILD 🔲", P11, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))() end)
-btn("ULTIMATE ADMIN 🔥", P11, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Veaquach/kruel/refs/heads/main/kruel%20obf.txt"))() end)
 
 --==================================================
 -- P7 : DJ SYSTEM
@@ -2280,9 +2270,9 @@ end)
 
 btn("BANGER 1💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
-    .. " ----------//----------\\----------//-----------\\ "
-    .. "BEST BANGER IN THE WORLD 👽👀______ "
-    .. "TARGET BE LIKE: AB KYA KARU 😭😂_____ "
+    .. " //----------\\----------//-----------\\ "
+    .. "BEST-BANGER-IN-THE-WORLD 👽👀@@@@ "
+    .. "TARGET BE LIKE: AB KYA KARU 😭😂~~~~~×~~~~~ "
     .. "MADE BY " .. playerName
     .. " | V1 BANGER LOADED 💀..."
 
@@ -2303,9 +2293,9 @@ btn("BANGER 2💀", P6, function()
 local message = "SCRIPT BY " .. playerName
 .. " \----------//----------\----------// "
 .. "BANGER 2 💀"
-.. "_"
+.. "~~~~~×~~~~~"
 .. "TARGET BE LIKE: AB TO MERI C ME 😭😂 "
-.. "____ "
+.. "<><><><> "
 .. "MADE BY " .. playerName
 .. " | BANGER V2 LOADED 💀🔥..."
 
@@ -2328,7 +2318,7 @@ local message = "SCRIPT BY " .. playerName
     .. "---"
     .. "😈💀---"
     .. "TARGET BE LIKE: YE KYA AA GAYA 😭👽 "
-    .. "___ "
+    .. "____//"
     .. "MADE BY 🗿 " .. playerName
     .. " | BANGER 3 LOADED 🥶🔥..."
 
@@ -2375,17 +2365,57 @@ btn("VOID WALKER ✨", P6, function() loadstring(game:HttpGet("https://pastefy.a
 
 btn("ALPHA HISTORY 📜", P14, function() loadstring(game:HttpGet("https://pastefy.app/VlheRB4L/raw"))() end)
 btn("JOIN EMPIRE ⛩️", P14, function() loadstring(game:HttpGet("https://pastefy.app/62LGo4kD/raw"))() end)
-btn("VISIT ONCE 👀", P14, function() loadstring(game:HttpGet("https://pastebin.com/raw/2u9zqrk2"))() end)
+btn("ALPHA CASTLE 🏰", P14, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Castle-v3/main/CASTLE_OF_MAXU-3.lua"))() end)
 
 --==================================================
 -- P12 : MINI GAMES
 --==================================================
 
-btn("TIC TAC TOE 🎮", P12, function() loadstring(game:HttpGet("https://pastebin.com/raw/ZYPzKzBF"))() end)
-btn("JET DEFENDER ✈️", P12, function() loadstring(game:HttpGet("https://pastebin.com/raw/KEjtCtpP"))() end)
-btn("CANDY BOM 💥", P12, function() loadstring(game:HttpGet("https://pastebin.com/raw/tTCmn7FS"))() end)
-btn("FLAPPY BIRD 🐦", P12, function() loadstring(game:HttpGet("https://pastebin.com/raw/BNqYv7N6"))() end)
-btn("CANDY CRUSH 🍭", P12, function() loadstring(game:HttpGet("https://pastebin.com/raw/gSW5NzsZ"))() end)
+btn("TIC TAC TOE 🎮", P12, function() 
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/r4DyGkWT"))() end)
+
+btn("JET DEFENDER ✈️", P12, function() 
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/KEjtCtpP"))() end)
+
+btn("CANDY BOM 💥", P12, function()
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/tTCmn7FS"))() end)
+
+btn("FLAPPY BIRD 🐦", P12, function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/FLAPPY-BIRD-/main/AAYAN_V3_FLAPPY_BIRD.lua"))() end)
+
+btn("CANDY CRUSH 🍭", P12, function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/DU4rLjrK"))() end)
+
+btn("BALL BOUNCE ⚽", P12, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Aayann/main/Alpha_Boat_Bounce_V1.lua"))() end)
+
+btn("MEMORY CARD 🟨", P12, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/MEMORY-GAME-/refs/heads/main/Aayan_Memory.lua"))() end)
+
+btn("REACTION MASTER 🔴", P12, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Reaction-/refs/heads/main/Aayan_Reaction_Master.lua"))() end)
+
+btn("BLOCK BLAST 💠", P12, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Block-blast/refs/heads/main/Aayan_Block_Blast.lua"))() end)
+
+btn("FEED THE SNAKE 🐍", P12, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Snake-master-/refs/heads/main/Aayan_Snake_Master.lua"))() end)
+
+btn("CIRCUIT MASTER ⚡", P12, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Circuit-/refs/heads/main/Aayan_Circuit_Connect.lua"))() end)
+
+
 
 
 --==================================================
@@ -2485,74 +2515,43 @@ local FeatureTitle = AddInfoText(
 	25,
 	true
 )
-local FeatFrame = Instance.new("Frame", P3)
-FeatFrame.Size = UDim2.new(1,0,0,340)
-FeatFrame.BackgroundTransparency = 1
-FeatureTitle.Parent = FeatFrame
-FeatureTitle.Position = UDim2.new(0,5,0,5)
+btn("TROLL ADMIN 🔥", P3, function()
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/ZnAdZPW1"))() end)
 
--- NOTE tab keeps the welcome text + closing line
-local NoteLine = AddInfoText(
-	"✨ ɪ ʜᴏᴘᴇ ʏᴏᴜ ʟɪᴋᴇ ᴀᴀʏᴀɴ ʜᴜʙ ᴠ2",
-	White,
-	40,
-	true
-)
-NoteLine.Position = UDim2.new(0,5,0,74)
-NoteLine.TextSize = 13
+btn("INFINITE YEILD 🔲", P3, function() 
 
--- FEATURES
-local Features = AddInfoText(
-	[[
-🔷 ʙᴀɴɢ - ᴜʟᴛɪᴍᴀᴛᴇ ɢᴀᴍᴇᴘʟᴀʏ ꜰᴇᴀᴛᴜʀᴇ 👽
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))() end)
 
-🛡️ ꜱʜɪᴇʟᴅ - ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ꜰᴇᴀᴛᴜʀᴇꜱ ᴀɢᴀɪɴꜱᴛ ᴀᴛᴛᴀᴄᴋꜱ
+btn("ULTIMATE ADMIN 🔥", P3, function()
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Veaquach/kruel/refs/heads/main/kruel%20obf.txt"))() end)
 
-🟣 ꜱᴘᴀᴍᴍᴇʀ - ꜰᴜɴ ᴄʜᴀᴛ & ᴍᴇꜱꜱᴀɢᴇ ꜰᴇᴀᴛᴜʀᴇꜱ 😂
 
-🔴 ᴠᴏɪᴅᴏᴜᴛ - ʙᴀɴɢɢᴇʀ + ᴇxᴛʀᴀ ɢᴀᴍᴇ ꜰᴇᴀᴛᴜʀᴇꜱ
-
-🎵 ᴅᴊ ꜱʏꜱᴛᴇᴍ - ᴇɴᴊᴏʏ ᴛʜᴇ ɢᴀᴍᴇ ᴡɪᴛʜ ᴍᴜꜱɪᴄ & ꜰᴜɴᴋ 💀
-
-⛩️ ᴀʟᴘʜᴀ ᴇᴍᴘɪʀᴇ - ꜰᴇᴀᴛᴜʀᴇꜱ & ᴄᴏɴᴛᴇɴᴛ ᴀʙᴏᴜᴛ ᴀʟᴘʜᴀ ᴇᴍᴘɪʀᴇ
-
-🎮 ᴍɪɴɪ ɢᴀᴍᴇ - ᴘʟᴀʏ ᴍɪɴɪ ɢᴀᴍᴇꜱ ᴡʜᴇɴ ʏᴏᴜ ɢᴇᴛ ʙᴏʀᴇᴅ 😋
-
-🌚 ꜱᴘᴇᴄɪᴀʟ - ᴜʟᴛɪᴍᴀᴛᴇ ꜱᴘᴇᴄɪᴀʟ ꜰᴇᴀᴛᴜʀᴇꜱ
-
-]],
-	White,
-	205,
-	false
-)
-
-Features.Parent = FeatFrame
-Features.Position = UDim2.new(0,5,0,36)
-Features.TextYAlignment = Enum.TextYAlignment.Top
-Features.TextSize = 13
-
---// RGB FEATURE TEXT EFFECT
-local Hue = 0
-
-table.insert(Cleanup, RunService.RenderStepped:Connect(function()
-	Hue = (Hue + 0.003) % 1
-
-	local RGB = Color3.fromHSV(Hue,0.8,1)
-
-	FeatureTitle.TextColor3 = RGB
-end))
 --==================================================
 -- P13 : SPECIAL
 --==================================================
 
-btn("SPECIAL MODES 😋 ", P13, function() loadstring(game:HttpGet("https://pastebin.com/raw/yiz4bZgG"))() end)
+btn("SPECIAL MODES 😋 ", P13, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Modes-/main/ALPHA_MODES_S.lua"))() end)
+
 btn("FOV VIEW 👁️ ", P13, function() loadstring(game:HttpGet("https://pastefy.app/wBDTCnNa/raw"))() end)
-btn("DRONE CONTROLLER 🚁", P13, function() loadstring(game:HttpGet("https://pastefy.app/9QN9NTjk/raw"))() end)
+
+btn("DRONE CONTROLLER 🚁", P13, function() loadstring(game:HttpGet("https://pastebin.com/raw/0Uc7CA86"))() end)
+
 btn("AURA GLITCH 🎭", P13, function() loadstring(game:HttpGet("https://pastebin.com/raw/Uq7htgyG"))() end)
-btn("OUTFIT BREAKER 😈", P13, function() loadstring(game:HttpGet("https://pastebin.com/raw/d4u4u9tn"))() end)
+
+btn("OUTFIT REVELER V3😈", P13, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Reveal-/main/AAYAN%20OUTFIT%20V4.lua"))() end)
+
 btn("🦖 Giant Mode", P13, function() if player.Character and player.Character:FindFirstChild("Humanoid") then for _, scale in pairs({"BodyHeightScale", "BodyWidthScale", "BodyDepthScale", "HeadScale"}) do local obj = player.Character.Humanoid:FindFirstChild(scale); if obj then obj.Value = 2.5 end end end end, false)
+
 btn("FAKE CHAT ☠️", P13, function() loadstring(game:HttpGet("https://pastebin.com/raw/96AH9Dcr"))() end)
+
 btn("TRAIL 🏳️‍🌈", P13, function() loadstring(game:HttpGet("https://pastebin.com/raw/xhXTB61N"))() end)
+
 btn("AUTO CLICKER ↗️", P13, function() loadstring(game:HttpGet("https://pastebin.com/raw/4b3HeU6Q"))() end)
 
 --==================================================
