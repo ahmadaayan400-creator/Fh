@@ -2267,6 +2267,14 @@ btn("🔥  ANTI-FLING", P8, function() for _,v in pairs(player.Character:GetDesc
 --==================================================
 -- P11 : VOIDOUT
 --==================================================
+btn("FAKEOUT 1 🌚", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/67KEqzjv"))() end)
+
+btn("FAKEOUT 2 🗿", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/meJYGz4a"))() end)
+
+btn("FAKEOUT 3🤬", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/y8H6TqE6"))() end)
+
+btn("ULTIMATE FAKEOUT 👺👀", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/X0ehhyKc"))() end)
+
 
 btn("VOIDSTRIKER 🗿", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/c3R861CE"))() end)
 btn("🪐 LOW GRAVITY", P11, function() workspace.Gravity = 15 end)
@@ -2275,13 +2283,6 @@ btn("🌍 NORMAL GRAVITY", P11, function() workspace.Gravity = 196.2 end)
 btn("AURA GLOW 🌟", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/SEEgQyMg"))() end)
 btn("PATROL👽", P11, function()
 	loadstring(game:HttpGet("https://pastebin.com/raw/XhKJMEqj"))() end)
-btn("FAKEOUT 1 🌚", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/67KEqzjv"))() end)
-
-btn("FAKEOUT 2 🗿", P11, function() loadstring(game:HttpGet(""))() end)
-
-btn("FAKEOUT 3🤬", P11, function() loadstring(game:HttpGet(""))() end)
-
-btn("ULTIMATE FAKEOUT 👺👀", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/meJYGz4a"))() end)
 
 btn("PATROL V2 👽",P11,function()
 	
@@ -2335,9 +2336,9 @@ btn("BANGER 2💀", P6, function()
 local message = "SCRIPT BY " .. playerName
 .. " \----------//----------\----------// "
 .. "BANGER 2 💀"
-.. "~~~~~×~~~~~"
+.. "~~~~×~~~~"
 .. "TARGET BE LIKE: AB TO MERI C ME 😭😂 "
-.. "<><><><> "
+.. "-+- "
 .. "MADE BY " .. playerName
 .. " | BANGER V2 LOADED 💀🔥..."
 
@@ -2356,11 +2357,11 @@ loadstring(game:HttpGet("https://pastebin.com/raw/X73d41m6"))() end)
 btn("BANGER 3 💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
     .. " \\----------//----------\\----------// "
-    .. "BANGER V3: NO MERCY 👹⚡ "
+    .. "BANGER V3: AB TO..👹⚡ "
     .. "---"
     .. "😈💀---"
-    .. "TARGET BE LIKE: YE KYA AA GAYA 😭👽 "
-    .. "____//"
+    .. "TARGET BE LIKE: YE KYA AA GAYA 😭👽"
+    .. "___"
     .. "MADE BY 🗿 " .. playerName
     .. " | BANGER 3 LOADED 🥶🔥..."
 
@@ -2380,10 +2381,10 @@ local message = "SCRIPT BY " .. playerName
     .. " ____//____MULTI TARGET BANGER 💀🔥____//____ "
     .. "~~~~~~~~~~~~~👽☠️ "
     .. "BEST MULTI TARGET BANG EVER 😈⚡ "
-    .. "______"
-    .. " 😭😂 "
-    .. "//____ MADE BY " .. playerName
-    .. " ____MULTI BANGER LOADED 💥👀..."
+    .. "_____"
+    .. "_"
+    .. "____MADE BY " .. playerName
+    .. "____MULTI BANGER LOADED 💥👀..."
 
 local channel = game:GetService("TextChatService")
     :FindFirstChild("TextChannels")
@@ -2400,8 +2401,8 @@ loadstring(game:HttpGet("https://pastebin.com/raw/BHYtZjgL"))() end)
 btn("BANGER 4 🔥💢", P6, function() 
 local message = "SCRIPT BY " .. playerName
     .. " ____//____ BANGER V4 💀⚡ ____//____ "
-    .. "MADE BY " .. playerName
-    .. " |---+---+---+--- V4 LOADED 👽🔥..."
+    .. "MADE BY ~~~~~×~~~~~ " .. playerName
+    .. " |---+---+---+---+---+---+|V4 LOADED 👽🔥..."
 
 local channel = game:GetService("TextChatService")
     :FindFirstChild("TextChannels")
@@ -2419,9 +2420,9 @@ loadstring(game:HttpGet("https://pastebin.com/raw/EgVAYt7U"))() end)
 btn("BANG R15 👽👺", P6, function() 
 local message = "SCRIPT BY " .. playerName
     .. " ______X______ R15 BANG 👽⚡ ______X______ "
-    .. "R15 EDITION 💀🔥 "
-    .. "MADE BY " .. playerName
-    .. " | R15 LOADED 👀..."
+    .. "TARGET KI FADO AB 👋🏼💀 BHAI AB TO GYA TU___//___"
+    .. "MADE BY~~~~~~×~~~~~~~×~~~~~~~ " .. playerName
+    .. " | R15 LOADED |👀..."
 
 local channel = game:GetService("TextChatService")
     :FindFirstChild("TextChannels")
