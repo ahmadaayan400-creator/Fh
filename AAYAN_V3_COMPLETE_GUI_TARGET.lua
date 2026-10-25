@@ -949,7 +949,7 @@ do
 	local royal = (playerGender == "girl") and "PRINCESS" or "KING"
 	local messages = {
 		build("SCRIPT BY " .. playerName .. " THE " .. royal .. " OF THE SERVER 👽 ", "V3 LOADED..."),
-		gangName .. " ON TOP 👌🏼😍 BEST GANGS EVER " .. gangName .. " X ALPHA EMPIRE ⛩️ 😼",
+		gangName .. " ON TOP 👌🏼😍 BEST GANG EVER " .. gangName .. " X AE ⛩️ 😼",
 	}
 	if hasTarget == "yes" and targetName then
 		if playerGender == "girl" then
@@ -2124,6 +2124,9 @@ btn("CUSTOM SPAM 3 😈🌚",P5,function()
 	
 loadstring(game:HttpGet(""))()end)
 
+btn("2 TARGET SPAM 😤💢",P5,function()
+	
+loadstring(game:HttpGet(""))()end)
 
 btn("ROAST SPAM 💢🤬",P5,function()
 	
@@ -2305,11 +2308,49 @@ btn("TELEPORTER V2 👾", P11, function() loadstring(game:HttpGet("https://paste
 --==================================================
 
 btn("🎵 DJ PLAYER",P7,function()
-	loadstring(game:HttpGet(
-		"https://pastefy.app/EZbyn0pl/raw"
-	))()
-end)
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Music-/refs/heads/main/Aayan_Music_System.lua"))()end)
 
+
+btn("BACK BANG 🍑",P6,function()
+local message = "SCRIPT BY " .. playerName
+    .. " -----[ BACK BANG 🍑 ]----- "
+    .. "______//______REAR MODE ACTIVATED________//_________ 💀👽 "
+    .. "MADE BY 👽👋🏼 " .. playerName
+    .. " | BEST--BACK---BANG----LOADED ⚡🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/0eFj3xPf"))()end)
+
+btn("FACE BANG 👄",P6,function()
+
+local message = "SCRIPT BY " .. playerName
+    .. " -----[ FACE 👄 ]----- "
+    .. "______//______REAR MODE ACTIVATED________//_________ 💀👽 "
+    .. "MADE BY 👽👋🏼 " .. playerName
+    .. " | BEST--FACE👄---BANG----LOADED ⚡🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end
+		
+loadstring(game:HttpGet("https://pastefy.app/0iFIMiBb/raw"))()end)
 
 btn("BANGER 1💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
@@ -2338,7 +2379,7 @@ local message = "SCRIPT BY " .. playerName
 .. "BANGER 2 💀"
 .. "~~~~×~~~~"
 .. "TARGET BE LIKE: AB TO MERI C ME 😭😂 "
-.. "-+- "
+.. "-+-+-+- "
 .. "MADE BY " .. playerName
 .. " | BANGER V2 LOADED 💀🔥..."
 
@@ -2359,7 +2400,7 @@ local message = "SCRIPT BY " .. playerName
     .. " \\----------//----------\\----------// "
     .. "BANGER V3: AB TO..👹⚡ "
     .. "---"
-    .. "😈💀---"
+    .. "😈💀----//----"
     .. "TARGET BE LIKE: YE KYA AA GAYA 😭👽"
     .. "___"
     .. "MADE BY 🗿 " .. playerName
@@ -2400,8 +2441,8 @@ if channel then
 loadstring(game:HttpGet("https://pastebin.com/raw/BHYtZjgL"))() end)
 btn("BANGER 4 🔥💢", P6, function() 
 local message = "SCRIPT BY " .. playerName
-    .. " ____//____ BANGER V4 💀⚡ ____//____ "
-    .. "MADE BY ~~~~~×~~~~~ " .. playerName
+    .. " _______//_______ B-A-N-G-E-R----V4 💀⚡ ______//_______ "
+    .. "~~~~~×~~~~~MADE BY~~~~~×~~~~~" .. playerName
     .. " |---+---+---+---+---+---+|V4 LOADED 👽🔥..."
 
 local channel = game:GetService("TextChatService")
@@ -2420,7 +2461,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/EgVAYt7U"))() end)
 btn("BANG R15 👽👺", P6, function() 
 local message = "SCRIPT BY " .. playerName
     .. " ______X______ R15 BANG 👽⚡ ______X______ "
-    .. "TARGET KI FADO AB 👋🏼💀 BHAI AB TO GYA TU___//___"
+    .. "TARGET KI FADO AB 👋🏼💀___//___//___ BHAI AB TO GYA TU "
     .. "MADE BY~~~~~~×~~~~~~~×~~~~~~~ " .. playerName
     .. " | R15 LOADED |👀..."
 
