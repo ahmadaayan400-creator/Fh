@@ -2116,9 +2116,29 @@ btn("CUSTOM SPAM 😎👺",P5,function()
 	
 loadstring(game:HttpGet("https://pastebin.com/raw/FVLWdWWy"))()end)
 
+btn("CUSTOM SPAM 2 😾💢",P5,function()
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/TstyMhsU"))()end)
+
+btn("CUSTOM SPAM 3 😈🌚",P5,function()
+	
+loadstring(game:HttpGet(""))()end)
+
+
 btn("ROAST SPAM 💢🤬",P5,function()
 	
 loadstring(game:HttpGet("https://pastebin.com/raw/crWrmZMT"))()end)
+btn("ROAST SPAM 2 💢😤",P5,function()
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/BUpdET3L"))()end)
+
+
+
+btn("3 TARGET SPAM (NEW)👺⚠️",P5,function()
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/ZND1sJu3"))()end)
+
+
 
 btn("ULTIMATE SPAM 💥⚠️",P5,function()
 		
@@ -2222,6 +2242,11 @@ end)
 --==================================================
 -- P8 : SHIELD
 --==================================================
+btn("ALPHA SHIELD++ 🛡️", P8, function()
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/0vvNWB3b"))() end)
+
+
 btn("👑 ANTI-VOID", P8, function(self)
 	Config.AntiVoid = not Config.AntiVoid
 	self.Text = "👑 ANTI-VOID: " .. (Config.AntiVoid and "ON" or "OFF")
@@ -2250,8 +2275,25 @@ btn("🌍 NORMAL GRAVITY", P11, function() workspace.Gravity = 196.2 end)
 btn("AURA GLOW 🌟", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/SEEgQyMg"))() end)
 btn("PATROL👽", P11, function()
 	loadstring(game:HttpGet("https://pastebin.com/raw/XhKJMEqj"))() end)
-btn("FAKEOUT 🌚", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/67KEqzjv"))() end)
+btn("FAKEOUT 1 🌚", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/67KEqzjv"))() end)
+
+btn("FAKEOUT 2 🗿", P11, function() loadstring(game:HttpGet(""))() end)
+
+btn("FAKEOUT 3🤬", P11, function() loadstring(game:HttpGet(""))() end)
+
+btn("ULTIMATE FAKEOUT 👺👀", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/meJYGz4a"))() end)
+
+btn("PATROL V2 👽",P11,function()
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/QZgf1Veu"))()end)
+
+btn("VOID WALKER ✨👀",P11,function()
+	
+loadstring(game:HttpGet("https://pastefy.app/RdQmPLSO/raw"))()end)
+
+
 btn("TELEPORTER V1 👾", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/EUSknnAF"))() end)
+
 btn("TELEPORTER V2 👾", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/216FSAFS"))() end)
 
 -- YOU WILL ADD HERE  (UNIVERSAL BANG 3F button)
@@ -2333,7 +2375,7 @@ if channel then
     end)
 		end		
 loadstring(game:HttpGet("https://pastebin.com/raw/TsLFDeKw"))() end)
-btn("MULTI TARGET 💥🕷️", P6, function() 
+btn("MULTI TARGET V3 💥🕷️", P6, function() 
 local message = "SCRIPT BY " .. playerName
     .. " ____//____MULTI TARGET BANGER 💀🔥____//____ "
     .. "~~~~~~~~~~~~~👽☠️ "
@@ -2354,9 +2396,45 @@ if channel then
     end)
 		end		
 		
-loadstring(game:HttpGet("https://pastebin.com/raw/6f0Kfemd"))() end)
-btn(" BANGGER V4HUB 🔥💢", P6, function() loadstring(game:HttpGet("https://pastebin.com/raw/EgVAYt7U"))() end)
-btn("VOID WALKER ✨", P6, function() loadstring(game:HttpGet("https://pastefy.app/RdQmPLSO/raw"))() end)
+loadstring(game:HttpGet("https://pastebin.com/raw/BHYtZjgL"))() end)
+btn("BANGER 4 🔥💢", P6, function() 
+local message = "SCRIPT BY " .. playerName
+    .. " ____//____ BANGER V4 💀⚡ ____//____ "
+    .. "MADE BY " .. playerName
+    .. " |---+---+---+--- V4 LOADED 👽🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end		
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/EgVAYt7U"))() end)
+
+btn("BANG R15 👽👺", P6, function() 
+local message = "SCRIPT BY " .. playerName
+    .. " ______X______ R15 BANG 👽⚡ ______X______ "
+    .. "R15 EDITION 💀🔥 "
+    .. "MADE BY " .. playerName
+    .. " | R15 LOADED 👀..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end	
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ririantiskid/troll/refs/heads/main/troll"))() end)
 
 
 --==================================================
@@ -2365,7 +2443,7 @@ btn("VOID WALKER ✨", P6, function() loadstring(game:HttpGet("https://pastefy.a
 
 btn("ALPHA HISTORY 📜", P14, function() loadstring(game:HttpGet("https://pastefy.app/VlheRB4L/raw"))() end)
 btn("JOIN EMPIRE ⛩️", P14, function() loadstring(game:HttpGet("https://pastefy.app/62LGo4kD/raw"))() end)
-btn("ALPHA CASTLE 🏰", P14, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Castle-v3/main/CASTLE_OF_MAXU-3.lua"))() end)
+btn("ALPHA CASTLE 🏰", P14, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Castle-v3/main/CASTLE_OF_MAXU-4.lua"))() end)
 
 --==================================================
 -- P12 : MINI GAMES
@@ -2424,48 +2502,55 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator
 
 local info = Instance.new("TextLabel", P2)
 
-info.Size = UDim2.new(1,-5,1,0)
+info.Name = "CreditsInfo"
+info.Size = UDim2.new(1, -10, 1, 0)
+info.Position = UDim2.new(0, 5, 0, 0)
 info.BackgroundTransparency = 1
-info.TextSize = 16
+info.TextSize = 15
 info.Font = Enum.Font.GothamBold
 info.TextWrapped = true
 info.TextYAlignment = Enum.TextYAlignment.Top
 info.TextXAlignment = Enum.TextXAlignment.Center
-info.RichText = false
+info.RichText = true
+info.TextColor3 = Color3.fromRGB(220, 235, 255)
 
 info.Text = [[
-👑 ꜱᴄʀɪᴘᴛ ᴏᴡɴᴇʀ - 🗿ᴀᴀʏᴀɴ⛩️
+<font color="#FFD700" size="19">👑 SCRIPT OWNER 👑</font>
 
+<font color="#E8EEFF" size="16">🗿 AAYAN ⛩️</font>
+<font color="#8EDBFF">📩 ROBLOX ID: AAYAN_ZZZZ</font>
+<font color="#8EDBFF">📩 SNAPCHAT: aayanzz123</font>
 
-📩 ʀᴏʙʟᴏx ɪᴅ -> AAYAN_ZZZZ
+<font color="#FFD700" size="18">✦ PREMIUM CREDIT ✦</font>
+<font color="#FFE7A0">ROBLOX ID: SARKAR</font>
+<font color="#FFE7A0">SNAPCHAT: REHAN MIRJA</font>
 
-📩 ꜱɴᴀᴘᴄʜᴀᴛ ɪᴅ -> aayanzz123
+<font color="#C8A2FF" size="16">♛ CO-OWNER ♛</font>
+<font color="#E2D5FF">AE_MAX</font>
+<font color="#C8A2FF">📩 ROBLOX ID: mr_king784</font>
 
-ʀᴏʙʟᴏx ɪᴅ -> mr_king784(AE_MAX)
+<font color="#FF7777" size="17">🚩 BIHAR ON TOP 🚩</font>
 
+<font color="#8DEBFF" size="17">💀 ULTIMATE BANG SCRIPT 😈</font>
 
-ʙɪʜᴀʀ ᴏɴ ᴛᴏᴘ 🚩
-
-ᴜʟᴛɪᴍᴀᴛᴇ ʙᴀɴɢ ꜱᴄʀɪᴘᴛ💀😈
-
-♣ ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴜꜱᴇ ᴀᴀʏᴀɴ ᴠ2 ♠
+<font color="#AABBDD">━━━━━━━━━━━━━━━━━━</font>
+<font color="#FFFFFF" size="14">♣ THANK YOU FOR USING AAYAN V3 ♠</font>
 ]]
 
--- RGB TEXT
+-- PREMIUM RGB TEXT ANIMATION
 task.spawn(function()
-	local h = 0
+    local h = 0
 
-	while info.Parent do
-		h = (h + 0.008) % 1
-		info.TextColor3 = Color3.fromHSV(h, 0.8, 1)
-		task.wait(0.02)
-	end
+    while info.Parent do
+        h = (h + 0.003) % 1
+        info.TextColor3 = Color3.fromHSV(h, 0.65, 1)
+        task.wait(0.03)
+    end
 end)
 
 --==================================================
 -- P9 : NOTE
 --==================================================
-
 local InfoFrame = Instance.new("Frame", P9)
 InfoFrame.Size = UDim2.new(1,0,1,0)
 InfoFrame.BackgroundTransparency = 1
@@ -2490,9 +2575,9 @@ local Purple = Color3.fromRGB(190,70,255)
 local Red = Color3.fromRGB(255,70,90)
 local White = Color3.fromRGB(240,240,245)
 
--- TITLE
+-- MAIN TITLE
 local InfoTitle = AddInfoText(
-	"⛩️ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀᴀʏᴀɴ ᴠ2 👑",
+	"👽🎀 WELCOME TO AAYAN V3 🎀👽",
 	Cyan,
 	32,
 	true
@@ -2501,21 +2586,47 @@ InfoTitle.Position = UDim2.new(0,5,0,5)
 
 -- SUBTITLE
 local InfoSub = AddInfoText(
-	"ᴛʜᴇ ᴋᴇʏʟᴇꜱꜱ ꜱᴄʀɪᴘᴛ ʙʏ ᴀᴀʏᴀɴ 💀",
+	"💜 YOUR HUB • ALWAYS EVOLVING 💜",
 	Purple,
-	28,
+	26,
 	true
 )
 InfoSub.Position = UDim2.new(0,5,0,38)
 
--- FEATURE TITLE
-local FeatureTitle = AddInfoText(
-	"✨ FEATURES ✨",
+-- NOTE TITLE
+local NoteTitle = AddInfoText(
+	"📢 IMPORTANT NOTE",
 	Red,
 	25,
 	true
 )
-btn("TROLL ADMIN 🔥", P3, function()
+NoteTitle.Position = UDim2.new(0,5,0,72)
+
+-- NOTE MESSAGE
+local NoteMessage = AddInfoText(
+	"So, this is my hub, and I'll keep updating it with new features! 🚀 If you face any bugs or problems, please let me know so I can fix them and make the hub even better. Thanks for supporting AAYAN V3! 👽💜",
+	White,
+	100,
+	false
+)
+NoteMessage.Position = UDim2.new(0,5,0,103)
+NoteMessage.TextSize = 14
+NoteMessage.TextYAlignment = Enum.TextYAlignment.Top
+
+btn("AAYAN ADMIN 🔲", P3, function()
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/AAYAN-ADMIN-PROTECT-/main/obfuscated.lua%20(8).txt"))() end)
+
+btn("CLAUDE AI (AE) 🤖", P3, function()
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Aayan-/refs/heads/main/AURA%20AI.lua"))() end)
+
+btn("SCRIPT SEARCH 🔍", P3, function()
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Script-/main/AAYAN_IS_KING.lua"))() end)
+
+
+btn("TROLL ADMIN 🔲", P3, function()
 		
 loadstring(game:HttpGet("https://pastebin.com/raw/ZnAdZPW1"))() end)
 
@@ -2523,7 +2634,7 @@ btn("INFINITE YEILD 🔲", P3, function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))() end)
 
-btn("ULTIMATE ADMIN 🔥", P3, function()
+btn("ULTIMATE ADMIN 🔲", P3, function()
 		
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Veaquach/kruel/refs/heads/main/kruel%20obf.txt"))() end)
 
@@ -2531,6 +2642,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Veaquach/kruel/refs/h
 --==================================================
 -- P13 : SPECIAL
 --==================================================
+
+btn("executor 😾", P13, function() 
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Zz-EXECUTOR-/refs/heads/main/executor.lua"))() end)
+
+
 
 btn("SPECIAL MODES 😋 ", P13, function() 
 		
