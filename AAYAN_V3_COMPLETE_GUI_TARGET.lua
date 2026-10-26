@@ -2350,7 +2350,7 @@ if channel then
     end)
 		end
 		
-loadstring(game:HttpGet("https://pastefy.app/0iFIMiBb/raw"))()end)
+loadstring(game:HttpGet("https://pastefy.app/cVCW0R18/raw"))()end)
 
 btn("BANGER 1💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
