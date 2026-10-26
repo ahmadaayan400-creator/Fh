@@ -2122,7 +2122,12 @@ loadstring(game:HttpGet("https://pastebin.com/raw/TstyMhsU"))()end)
 
 btn("CUSTOM SPAM 3 😈🌚",P5,function()
 	
+loadstring(game:HttpGet("https://pastebin.com/raw/0GxxWYGr"))()end)
+
+btn("PATTERN SPAM 👻👹",P5,function()
+	
 loadstring(game:HttpGet(""))()end)
+
 
 btn("2 TARGET SPAM 😤💢",P5,function()
 	
@@ -2131,6 +2136,7 @@ loadstring(game:HttpGet(""))()end)
 btn("ROAST SPAM 💢🤬",P5,function()
 	
 loadstring(game:HttpGet("https://pastebin.com/raw/crWrmZMT"))()end)
+
 btn("ROAST SPAM 2 💢😤",P5,function()
 		
 loadstring(game:HttpGet("https://pastebin.com/raw/BUpdET3L"))()end)
