@@ -2354,11 +2354,11 @@ loadstring(game:HttpGet("https://pastefy.app/cVCW0R18/raw"))()end)
 
 btn("BANGER 1💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
-    .. " //----------\\----------//-----------\\ "
-    .. "BEST-BANGER-IN-THE-WORLD 👽👀@@@@ "
-    .. "TARGET BE LIKE: AB KYA KARU 😭😂~~~~~×~~~~~ "
+    .. " //----------\\-------//-----------\\ "
+    .. "BEST-BANGER-IN-THE-WORLD 👽@@@@ "
+    .. "TARGET BE LIKE: AB KYA KARU 😭😂~~~×~~~ "
     .. "MADE BY " .. playerName
-    .. " | V1 BANGER LOADED 💀..."
+    .. " V1 BANGER LOADED 💀..."
 
 local channel = game:GetService("TextChatService")
     :FindFirstChild("TextChannels")
@@ -2398,13 +2398,13 @@ loadstring(game:HttpGet("https://pastebin.com/raw/X73d41m6"))() end)
 btn("BANGER 3 💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
     .. " \\----------//----------\\----------// "
-    .. "BANGER V3: AB TO..👹⚡ "
-    .. "---"
-    .. "😈💀----//----"
+    .. "BANGER V3../\ "
+    .. ""
+    .. "----//----"
     .. "TARGET BE LIKE: YE KYA AA GAYA 😭👽"
     .. "___"
     .. "MADE BY 🗿 " .. playerName
-    .. " | BANGER 3 LOADED 🥶🔥..."
+    .. " ~~~~BANGER 3 LOADED 🥶🔥..."
 
 local channel = game:GetService("TextChatService")
     :FindFirstChild("TextChannels")
@@ -2420,11 +2420,11 @@ loadstring(game:HttpGet("https://pastebin.com/raw/TsLFDeKw"))() end)
 btn("MULTI TARGET V3 💥🕷️", P6, function() 
 local message = "SCRIPT BY " .. playerName
     .. " ____//____MULTI TARGET BANGER 💀🔥____//____ "
-    .. "~~~~~~~~~~~~~👽☠️ "
+    .. "~~~~~~~~~👽☠️ "
     .. "BEST MULTI TARGET BANG EVER 😈⚡ "
     .. "_____"
-    .. "_"
-    .. "____MADE BY " .. playerName
+    .. ""
+    .. "MADE BY " .. playerName
     .. "____MULTI BANGER LOADED 💥👀..."
 
 local channel = game:GetService("TextChatService")
@@ -2443,7 +2443,7 @@ btn("BANGER 4 🔥💢", P6, function()
 local message = "SCRIPT BY " .. playerName
     .. " _______//_______ B-A-N-G-E-R----V4 💀⚡ ______//_______ "
     .. "~~~~~×~~~~~MADE BY~~~~~×~~~~~" .. playerName
-    .. " |---+---+---+---+---+---+|V4 LOADED 👽🔥..."
+    .. " |---+---+---+---+---+---+ V4 LOADED 👽🔥..."
 
 local channel = game:GetService("TextChatService")
     :FindFirstChild("TextChannels")
