@@ -2113,8 +2113,8 @@ end)
 --==================================================
 
 btn("CUSTOM SPAM 😎👺",P5,function()
-local message = "SCRIPT BY " .. playerName .. "
-    .. "________________//______♠______//______♠______// "
+local message = "SCRIPT BY [" .. playerName .. "]"
+    .. "________________//______♠______//______♠______//________________ "
     .. "CUSTOM SPAM V1 LOADED...👺👀"
 
 local channel = game:GetService("TextChatService")
