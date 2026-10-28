@@ -2607,6 +2607,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ririantiskid/troll/re
 btn("ALPHA HISTORY 📜", P14, function() loadstring(game:HttpGet("https://pastefy.app/VlheRB4L/raw"))() end)
 btn("JOIN EMPIRE ⛩️", P14, function() loadstring(game:HttpGet("https://pastefy.app/62LGo4kD/raw"))() end)
 btn("ALPHA CASTLE 🏰", P14, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Castle-v3/main/CASTLE_OF_MAXU-4.lua"))() end)
+btn("AMUSEMENT PARK 🎢", P14, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/AMUSEMENT-PARK-/refs/heads/main/MAXU_AMUSEMENT_PARK-1.lua"))() end)
 
 --==================================================
 -- P12 : MINI GAMES
@@ -2683,13 +2684,13 @@ info.Text = [[
 <font face="Michroma" color="#FFE27A">SNAP</font> <font face="PermanentMarker" color="#FFE27A">-</font> <font face="Jura" color="#FFE27A">aayanzz123</font>
 <font face="Sarpanch" color="#FFE27A">ROBLOX</font> <font face="Nunito" color="#FFE27A">-</font> <font face="DenkOne" color="#FFE27A">AAYAN_ZZZZ</font>
 
-<font face="TitilliumWeb" color="#B77BFF" size="19">♛</font> <font face="SpecialElite" color="#B77BFF" size="19">CO</font> <font face="Ubuntu" color="#B77BFF" size="19">OWNER</font> <font face="GothamBlack" color="#B77BFF" size="19">♛</font>
+<font face="TitilliumWeb" color="#B77BFF" size="19">♛</font> <font face="SpecialElite" color="#B77BFF" size="19">2ND</font> <font face="Ubuntu" color="#B77BFF" size="19">OWNER</font> <font face="GothamBlack" color="#B77BFF" size="19">♛</font>
 <font face="FredokaOne" color="#E4D0FF" size="21">AE_MAX</font> <font face="Bangers" color="#E4D0FF" size="21">💎</font>
 <font face="LuckiestGuy" color="#CFA8FF">SNAP</font> <font face="Oswald" color="#CFA8FF">-</font> <font face="Michroma" color="#CFA8FF">snapuser78432</font>
 <font face="PermanentMarker" color="#CFA8FF">ROBLOX</font> <font face="Jura" color="#CFA8FF">ID</font> <font face="Sarpanch" color="#CFA8FF">-</font> <font face="Nunito" color="#CFA8FF">mr_king7809</font>
 
-<font face="DenkOne" color="#3DD9FF" size="18">✦</font> <font face="TitilliumWeb" color="#3DD9FF" size="18">LOCAL</font> <font face="SpecialElite" color="#3DD9FF" size="18">CREDIT</font> <font face="Ubuntu" color="#3DD9FF" size="18">✦</font>
-<font face="GothamBlack" color="#C4F5FF" size="20">REHAN</font> <font face="FredokaOne" color="#C4F5FF" size="20">MIRZA</font> <font face="Bangers" color="#C4F5FF" size="20">⚡</font>
+<font face="DenkOne" color="#3DD9FF" size="18">✦</font> <font face="TitilliumWeb" color="#3DD9FF" size="18">.</font> <font face="SpecialElite" color="#3DD9FF" size="18">CREDIT</font> <font face="Ubuntu" color="#3DD9FF" size="18">✦</font>
+<font face="GothamBlack" color="#C4F5FF" size="20">REHAN</font> <font face="FredokaOne" color="#C4F5FF" size="20">SARKAR</font> <font face="Bangers" color="#C4F5FF" size="20">⚡</font>
 <font face="LuckiestGuy" color="#7FE7FF">SNAP</font> <font face="Oswald" color="#7FE7FF">-</font> <font face="Michroma" color="#7FE7FF">mirza001856</font>
 <font face="PermanentMarker" color="#7FE7FF">ROBLOX</font> <font face="Jura" color="#7FE7FF">ID</font> <font face="Sarpanch" color="#7FE7FF">-</font> <font face="Nunito" color="#7FE7FF">Rehan_mirzaa</font>
 
