@@ -2114,8 +2114,8 @@ end)
 
 btn("CUSTOM SPAM 😎👺",P5,function()
 local message = "SCRIPT BY " .. playerName
-    .. "_______//_______//______💀🎀_______//______//______"
-    .. "MADE BY" .. playerName
+    .. " _______//_______//______💀🎀_______//______//______"
+    .. "MADE BY " .. playerName
     .. "_________________COUSTAM SPAM V1 LOADED 💀🔥..."
 
 local channel = game:GetService("TextChatService")
@@ -2133,15 +2133,58 @@ if channel then
 loadstring(game:HttpGet("https://pastebin.com/raw/FVLWdWWy"))()end)
 
 btn("CUSTOM SPAM 2 😾💢",P5,function()
-	
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______💀🎀_______//______//______"
+    .. "MADE BY " .. playerName
+    .. "_________________COUSTAM SPAM V2 LOADED 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end		
+		
 loadstring(game:HttpGet("https://pastebin.com/raw/TstyMhsU"))()end)
 
 btn("CUSTOM SPAM 3 😈🌚",P5,function()
-	
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______💀🎀_______//______//______"
+    .. "MADE BY " .. playerName
+    .. "_________________COUSTAM SPAM V3 LOADED 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end		
 loadstring(game:HttpGet("https://pastebin.com/raw/0GxxWYGr"))()end)
 
 btn("PATTERN SPAM 👻👹",P5,function()
-	
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______💀🎀_______//______//______"
+    .. "MADE BY " .. playerName
+    .. "_________________COUSTOM PATTERN SPAM LOADED 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end			
 loadstring(game:HttpGet(""))()end)
 
 
@@ -2150,23 +2193,79 @@ btn("2 TARGET SPAM 😤💢",P5,function()
 loadstring(game:HttpGet(""))()end)
 
 btn("ROAST SPAM 💢🤬",P5,function()
-	
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______💀🎀_______//______//______"
+    .. "LEAVE KRJA 💀😈 MADE BY " .. playerName
+    .. "________________ROAST SPAM LOADED BETE 😂 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end			
 loadstring(game:HttpGet("https://pastebin.com/raw/crWrmZMT"))()end)
 
 btn("ROAST SPAM 2 💢😤",P5,function()
-		
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______😼💢______//_______"
+    .. " CHAL LEAVE MAR BETE NHI TO HAG DEGA👺🌚 MADE BY " .. playerName
+    .. "_________________ROAST SPAM V2 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end				
 loadstring(game:HttpGet("https://pastebin.com/raw/BUpdET3L"))()end)
 
 
 
 btn("3 TARGET SPAM (NEW)👺⚠️",P5,function()
-		
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______💀🎀_______//______//______"
+    .. " BEST 3 TARGET EVER 🥸😎 MADE BY " .. playerName
+    .. "_________________3 TARGET SPAM 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end				
 loadstring(game:HttpGet("https://pastebin.com/raw/ZND1sJu3"))()end)
 
 
 
 btn("ULTIMATE SPAM 💥⚠️",P5,function()
-		
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______💀🎀_______//______//______"
+    .. "MADE BY " .. playerName
+    .. "_________________ULTIMATE SPAM LOADED 😈🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end				
 loadstring(game:HttpGet("https://pastebin.com/raw/BKt9y40g"))()end)
 
 btn("ALPHA EMPIRE ⛩️😼",P5,function()
@@ -2336,7 +2435,7 @@ btn("🎵 DJ PLAYER",P7,function()
 btn("BACK BANG 🍑",P6,function()
 local message = "SCRIPT BY " .. playerName
     .. " -----[ BACK BANG 🍑 ]----- "
-    .. "______//______REAR MODE ACTIVATED________//_________ 💀👽 "
+    .. "______//______BACK MODE ACTIVATED________//_________ 💀👽 "
     .. "MADE BY 👽👋🏼 " .. playerName
     .. " | BEST--BACK---BANG----LOADED ⚡🔥..."
 
@@ -2564,53 +2663,153 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator
 -- P2 : OWNER
 --==================================================
 
-local info = Instance.new("TextLabel", P2)
+local TweenService = game:GetService("TweenService")
 
-info.Name = "CreditsInfo"
-info.Size = UDim2.new(1, -10, 1, 0)
-info.Position = UDim2.new(0, 5, 0, 0)
-info.BackgroundTransparency = 1
-info.TextSize = 15
-info.Font = Enum.Font.GothamBold
-info.TextWrapped = true
-info.TextYAlignment = Enum.TextYAlignment.Top
-info.TextXAlignment = Enum.TextXAlignment.Center
-info.RichText = true
-info.TextColor3 = Color3.fromRGB(220, 235, 255)
+local old = P2:FindFirstChild("CreditsInfo")
+if old then old:Destroy() end
+local oldList = P2:FindFirstChild("CreditsList")
+if oldList then oldList:Destroy() end
 
-info.Text = [[
-<font color="#FFD700" size="19">👑 SCRIPT OWNER 👑</font>
+local list = Instance.new("ScrollingFrame")
+list.Name = "CreditsList"
+list.Size = UDim2.new(1, -10, 1, 0)
+list.Position = UDim2.new(0, 5, 0, 0)
+list.BackgroundTransparency = 1
+list.BorderSizePixel = 0
+list.ScrollBarThickness = 3
+list.ScrollBarImageColor3 = Color3.fromRGB(170, 100, 255)
+list.AutomaticCanvasSize = Enum.AutomaticSize.Y
+list.CanvasSize = UDim2.new()
+list.Parent = P2
 
-<font color="#E8EEFF" size="16">🗿 AAYAN ⛩️</font>
-<font color="#8EDBFF">📩 ROBLOX ID: AAYAN_ZZZZ</font>
-<font color="#8EDBFF">📩 SNAPCHAT: aayanzz123</font>
+local lay = Instance.new("UIListLayout")
+lay.Padding = UDim.new(0, 8)
+lay.HorizontalAlignment = Enum.HorizontalAlignment.Center
+lay.Parent = list
+local pad = Instance.new("UIPadding")
+pad.PaddingTop = UDim.new(0, 6)
+pad.PaddingBottom = UDim.new(0, 8)
+pad.Parent = list
 
-<font color="#FFD700" size="18">✦ PREMIUM CREDIT ✦</font>
-<font color="#FFE7A0">ROBLOX ID: SARKAR</font>
-<font color="#FFE7A0">SNAPCHAT: REHAN MIRJA</font>
+local cards = {}
 
-<font color="#C8A2FF" size="16">♛ CO-OWNER ♛</font>
-<font color="#E2D5FF">AE_MAX</font>
-<font color="#C8A2FF">📩 ROBLOX ID: mr_king784</font>
+local function addText(parent, text, size, color, order, font)
+	local l = Instance.new("TextLabel")
+	l.BackgroundTransparency = 1
+	l.Size = UDim2.new(1, -16, 0, size + 6)
+	l.LayoutOrder = order
+	l.Font = font or Enum.Font.GothamBold
+	l.TextSize = size
+	l.TextColor3 = color
+	l.Text = text
+	l.TextXAlignment = Enum.TextXAlignment.Center
+	l.TextWrapped = true
+	l.RichText = true
+	l.Parent = parent
+	return l
+end
 
-<font color="#FF7777" size="17">🚩 BIHAR ON TOP 🚩</font>
+local function addCard(tag, tagSize, name, lines, c1, c2)
+	local card = Instance.new("Frame")
+	card.Size = UDim2.new(1, -6, 0, 0)
+	card.AutomaticSize = Enum.AutomaticSize.Y
+	card.BackgroundColor3 = Color3.fromRGB(16, 10, 30)
+	card.BackgroundTransparency = 0.12
+	card.BorderSizePixel = 0
+	card.ClipsDescendants = true
+	card.Parent = list
+	Instance.new("UICorner", card).CornerRadius = UDim.new(0, 12)
 
-<font color="#8DEBFF" size="17">💀 ULTIMATE BANG SCRIPT 😈</font>
+	local st = Instance.new("UIStroke")
+	st.Color = c1
+	st.Thickness = 1.8
+	st.Parent = card
 
-<font color="#AABBDD">━━━━━━━━━━━━━━━━━━</font>
-<font color="#FFFFFF" size="14">♣ THANK YOU FOR USING AAYAN V3 ♠</font>
-]]
+	local bg = Instance.new("UIGradient")
+	bg.Color = ColorSequence.new(Color3.fromRGB(26, 14, 48), Color3.fromRGB(12, 8, 24))
+	bg.Rotation = 90
+	bg.Parent = card
 
--- PREMIUM RGB TEXT ANIMATION
+	local inner = Instance.new("UIListLayout")
+	inner.Padding = UDim.new(0, 2)
+	inner.HorizontalAlignment = Enum.HorizontalAlignment.Center
+	inner.SortOrder = Enum.SortOrder.LayoutOrder
+	inner.Parent = card
+	local ip = Instance.new("UIPadding")
+	ip.PaddingTop = UDim.new(0, 8)
+	ip.PaddingBottom = UDim.new(0, 10)
+	ip.Parent = card
+
+	local t = addText(card, tag, tagSize, c1, 1, Enum.Font.GothamBlack)
+	local tg = Instance.new("UIGradient")
+	tg.Color = ColorSequence.new(c1, c2)
+	tg.Parent = t
+	t.TextColor3 = Color3.new(1, 1, 1)
+	addText(card, name, 20, Color3.fromRGB(255, 255, 255), 2, Enum.Font.GothamBlack)
+	for i, ln in ipairs(lines) do
+		addText(card, ln, 14, c2, 2 + i, Enum.Font.GothamBold)
+	end
+
+	-- light sweep every 2 seconds
+	local sh = Instance.new("Frame")
+	sh.BackgroundColor3 = Color3.new(1, 1, 1)
+	sh.BackgroundTransparency = 0.85
+	sh.BorderSizePixel = 0
+	sh.Size = UDim2.new(0.22, 0, 2, 0)
+	sh.AnchorPoint = Vector2.new(0.5, 0.5)
+	sh.Position = UDim2.new(-0.3, 0, 0.5, 0)
+	sh.Rotation = 20
+	sh.ZIndex = 5
+	sh.Active = false
+	sh.Parent = card
+	local sg = Instance.new("UIGradient")
+	sg.Transparency = NumberSequence.new({
+		NumberSequenceKeypoint.new(0, 1), NumberSequenceKeypoint.new(0.5, 0), NumberSequenceKeypoint.new(1, 1) })
+	sg.Parent = sh
+	cards[#cards + 1] = { st = st, sh = sh, c1 = c1, c2 = c2 }
+	return card
+end
+
+-- OWNER (gold)
+addCard("👑  OWNER  👑", 17, "AAYAN  🗿⛩️",
+	{ "SNAP  -  aayanzz123", "ROBLOX  -  AAYAN_ZZZZ" },
+	Color3.fromRGB(255, 205, 60), Color3.fromRGB(255, 236, 160))
+
+-- CO OWNER (purple)
+addCard("♛  CO OWNER  ♛", 16, "AE_MAX  💎",
+	{ "SNAP  -  snapuser78432", "ROBLOX ID  -  mr_king7809" },
+	Color3.fromRGB(170, 100, 255), Color3.fromRGB(226, 205, 255))
+
+-- LOCAL CREDIT (cyan)
+addCard("✦  LOCAL CREDIT  ✦", 15, "REHAN MIRZA  ⚡",
+	{ "SNAP  -  mirza001856", "ROBLOX ID  -  Rehan_mirzaa" },
+	Color3.fromRGB(60, 215, 255), Color3.fromRGB(190, 245, 255))
+
+local thanks = addText(list, "THANK YOU FOR USING AAYAN V3", 13, Color3.fromRGB(190, 175, 230), 99)
+thanks.LayoutOrder = 99
+thanks.Size = UDim2.new(1, -10, 0, 22)
+
+-- animation: stroke colour breathes between the two role colours, sweep every 2s
 task.spawn(function()
-    local h = 0
-
-    while info.Parent do
-        h = (h + 0.003) % 1
-        info.TextColor3 = Color3.fromHSV(h, 0.65, 1)
-        task.wait(0.03)
-    end
+	local t = 0
+	while list.Parent do
+		t = t + 0.03
+		for _, c in ipairs(cards) do
+			c.st.Color = c.c1:Lerp(c.c2, (math.sin(t * 2) + 1) / 2)
+		end
+		task.wait(0.03)
+	end
 end)
+task.spawn(function()
+	while list.Parent do
+		for _, c in ipairs(cards) do
+			c.sh.Position = UDim2.new(-0.3, 0, 0.5, 0)
+			TweenService:Create(c.sh, TweenInfo.new(0.8, Enum.EasingStyle.Sine), { Position = UDim2.new(1.3, 0, 0.5, 0) }):Play()
+		end
+		task.wait(2)
+	end
+end)
+
 
 --==================================================
 -- P9 : NOTE
