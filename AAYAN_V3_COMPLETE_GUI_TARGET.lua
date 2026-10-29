@@ -2355,6 +2355,7 @@ end)
 btn("ALPHA SHIELD++ 🛡️", P8, function()
 		
 loadstring(game:HttpGet("https://pastebin.com/raw/0vvNWB3b"))() end)
+btn("ULTRA ENGINE 🎛️", P8, function() loadstring(game:HttpGet("https://pastebin.com/raw/tdXfMj6y"))() end)
 
 
 btn("👑 ANTI-VOID", P8, function(self)
@@ -2420,7 +2421,7 @@ btn("🎵 DJ PLAYER",P7,function()
 
 btn("BACK BANG 🍑",P6,function()
 local message = "SCRIPT BY " .. playerName
-    .. " -----[ BACK BANG 🍑 ]----- "
+    .. " -----[ BACK BANG ]----- "
     .. "______//______BACK MODE ACTIVATED________//_________ 💀👽 "
     .. "MADE BY 👽👋🏼 " .. playerName
     .. " | BEST--BACK---BANG----LOADED ⚡🔥..."
@@ -2590,10 +2591,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ririantiskid/troll/re
 -- P14 : ALPHA EMPIRE
 --==================================================
 
-btn("ALPHA HISTORY 📜", P14, function() loadstring(game:HttpGet("https://pastefy.app/VlheRB4L/raw"))() end)
-btn("JOIN EMPIRE ⛩️", P14, function() loadstring(game:HttpGet("https://pastefy.app/62LGo4kD/raw"))() end)
-btn("ALPHA CASTLE 🏰", P14, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Castle-v3/main/CASTLE_OF_MAXU-4.lua"))() end)
-btn("AMUSEMENT PARK 🎢", P14, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/AMUSEMENT-PARK-/refs/heads/main/MAXU_AMUSEMENT_PARK-1.lua"))() end)
+btn("ALPHA HISTORY 📜", P9, function() loadstring(game:HttpGet("https://pastefy.app/VlheRB4L/raw"))() end)
+btn("JOIN EMPIRE ⛩️", P9, function() loadstring(game:HttpGet("https://pastefy.app/62LGo4kD/raw"))() end)
+btn("ALPHA CASTLE 🏰", P9, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Castle-v3/main/CASTLE_OF_MAXU-4.lua"))() end)
+btn("AMUSEMENT PARK 🎢", P9, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/AMUSEMENT-PARK-/refs/heads/main/MAXU_AMUSEMENT_PARK-1.lua"))() end)
+btn("POOKIE PARK 🎀🏞️", P9, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Pookie-park-/refs/heads/main/POOKIE_PARK.lua"))() end)
 
 --==================================================
 -- P12 : MINI GAMES
@@ -2687,7 +2689,7 @@ info.Text = [[
 --==================================================
 -- P9 : NOTE
 --==================================================
-local InfoFrame = Instance.new("Frame", P9)
+local InfoFrame = Instance.new("Frame", P14)
 InfoFrame.Size = UDim2.new(1,0,1,0)
 InfoFrame.BackgroundTransparency = 1
 
@@ -2740,7 +2742,7 @@ NoteTitle.Position = UDim2.new(0,5,0,72)
 
 -- NOTE MESSAGE
 local NoteMessage = AddInfoText(
-	"So, this is my hub, and I'll keep updating it with new features! 🚀 If you face any bugs or problems, please let me know so I can fix them and make the hub even better. Thanks for supporting AAYAN V3! 👽💜",
+	"So, this is my hub, and I'll keep updating it with new features! 🚀 If you face any bugs or problems, please let me know so I can fix them and make the hub even better luv u all ALPHA EMPIRE ⛩️ members 🫠 and all Thanks for supporting AAYAN V3! 👽💜 ",
 	White,
 	100,
 	false
@@ -2761,6 +2763,8 @@ btn("SCRIPT SEARCH 🔍", P3, function()
 		
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Script-/main/AAYAN_IS_KING.lua"))() end)
 
+btn("3F STALKER 🌱", P3, function() loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Universal-Script-3Fs-236312"))() end)
+
 
 btn("TROLL ADMIN 🔲", P3, function()
 		
@@ -2779,7 +2783,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Veaquach/kruel/refs/h
 -- P13 : SPECIAL
 --==================================================
 
-btn("executor 😾", P13, function() 
+btn("EXECUTOR 😾", P13, function() 
 		
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Zz-EXECUTOR-/refs/heads/main/executor.lua"))() end)
 
