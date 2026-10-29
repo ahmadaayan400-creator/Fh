@@ -2130,7 +2130,7 @@ if channel then
 		end		
 
 		
-loadstring(game:HttpGet("https://pastebin.com/raw/FVLWdWWy"))()end)
+loadstring(game:HttpGet("https://pastebin.com/raw/Desuspvr"))()end)
 
 btn("CUSTOM SPAM 2 😾💢",P5,function()
 local message = "SCRIPT BY " .. playerName
