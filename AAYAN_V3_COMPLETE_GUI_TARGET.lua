@@ -1839,15 +1839,15 @@ tab("OWNER 🚩",P2)
 tab("ADMIN 🔲",P3)
 tab("PANEL 💀",P4)
 tab("SPAMMER 🌀",P5)
-tab("FUN 💥",P6)
+tab("BANGS 💥",P6)
 tab("DJ SYSTEM 🎶",P7)
 tab("SHIELD 🤖",P8)
-tab("NOTE 🔷",P9)
+tab("NOTE 🔷",P14)
 tab("OTHERS ☣",P10)
 tab("VOIDOUT 🗿",P11)
 tab("MINI GAMES 🎮",P12)
 tab("SPECIAL 💖",P13)
-tab("ALPHA EMPIRE ⛩️",P14)
+tab("ALPHA EMPIRE ⛩️",P9)
 
 --==================================================
 -- ADD HERE P1 (INFO is the first tab)
@@ -2152,22 +2152,8 @@ if channel then
 loadstring(game:HttpGet("https://pastebin.com/raw/TstyMhsU"))()end)
 
 btn("CUSTOM SPAM 3 😈🌚",P5,function()
-local message = "SCRIPT BY " .. playerName
-    .. " _______//_______//______💀🎀_______//______//______"
-    .. "MADE BY " .. playerName
-    .. "_________________COUSTAM SPAM V3 LOADED 💀🔥..."
-
-local channel = game:GetService("TextChatService")
-    :FindFirstChild("TextChannels")
-
-channel = channel and channel:FindFirstChild("RBXGeneral")
-
-if channel then
-    pcall(function()
-        channel:SendAsync(message)
-    end)
-		end		
-loadstring(game:HttpGet("https://pastebin.com/raw/0GxxWYGr"))()end)
+		
+loadstring(game:HttpGet("https://pastebin.com/raw/0J61KcB0"))()end)
 
 btn("PATTERN SPAM 👻👹",P5,function()
 local message = "SCRIPT BY " .. playerName
