@@ -2175,7 +2175,45 @@ loadstring(game:HttpGet("https://pastebin.com/raw/uyiHJZLs"))()end)
 
 
 btn("2 TARGET SPAM 😤💢",P5,function()
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______//______"
+    .. "//______//______MADE BY " .. playerName
+    .. "_________________2 TARGET SPAM LOADED 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end
+		
 loadstring(game:HttpGet("https://pastebin.com/raw/T71436Kd"))()end)
+
+btn("5 TARGET SPAM 👻👹",P5,function()
+local message = "SCRIPT BY " .. playerName
+    .. " _______//_______//______//______"
+    .. "//______//______MADE BY " .. playerName
+    .. "_________________5 TARGET SPAM LOADED 💀🔥..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end
+		
+loadstring(game:HttpGet("https://pastefy.app/VUD8pvut/raw"))()end)
+
+
+
 
 btn("ROAST SPAM 💢🤬",P5,function()
 local message = "SCRIPT BY " .. playerName
@@ -2355,6 +2393,9 @@ btn("ALPHA SHIELD++ 🛡️", P8, function()
 		
 loadstring(game:HttpGet("https://pastebin.com/raw/0vvNWB3b"))() end)
 btn("ULTRA ENGINE 🎛️", P8, function() loadstring(game:HttpGet("https://pastebin.com/raw/tdXfMj6y"))() end)
+btn("BEST ANTI BANG 👺",P8,function()
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/mZGPu2F4"))()end)
 
 
 btn("👑 ANTI-VOID", P8, function(self)
@@ -2384,6 +2425,17 @@ btn("FAKEOUT 2 🗿", P11, function() loadstring(game:HttpGet("https://pastebin.
 btn("FAKEOUT 3🤬", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/y8H6TqE6"))() end)
 
 btn("ULTIMATE FAKEOUT 👺👀", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/X0ehhyKc"))() end)
+
+btn("VOID FALLER 🕳️",P11,function()
+	
+loadstring(game:HttpGet("https://pastefy.app/m48WKxUJ/raw"))()end)
+
+btn("SNAKE FAKEOUT 🐍",P11,function()
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/6G05EvDE"))()end)
+btn("FAKEOUT + ANTI BANG 😎",P11,function()
+	
+loadstring(game:HttpGet("https://pastebin.com/raw/bDSvuPb4"))()end)
 
 
 btn("VOIDSTRIKER 🗿", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/c3R861CE"))() end)
