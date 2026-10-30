@@ -2598,6 +2598,32 @@ if channel then
 		end		
 		
 loadstring(game:HttpGet("https://pastebin.com/raw/BHYtZjgL"))() end)
+
+btn("VOICE BANG 🗣️", P6, function() 
+local message = "SCRIPT BY " .. playerName
+    .. " ____//____VOICE BANG  💀🔥____//____ "
+    .. "~~~~~~~~~👽☠️ "
+    .. "VOICE BANG LOADED AB AAYEGA MAJA 😝😈⚡ "
+    .. "_____"
+    .. ""
+    .. "MADE BY " .. playerName
+    .. "____VOICE BANGER LOADED 💥👀..."
+
+local channel = game:GetService("TextChatService")
+    :FindFirstChild("TextChannels")
+
+channel = channel and channel:FindFirstChild("RBXGeneral")
+
+if channel then
+    pcall(function()
+        channel:SendAsync(message)
+    end)
+		end		
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/MUSIC-BANG-/refs/heads/main/gistfile1%20(1).txt"))() end)
+
+
+
 btn("BANGER 4 🔥💢", P6, function() 
 local message = "SCRIPT BY " .. playerName
     .. " _______//_______ B-A-N-G-E-R----V4 💀⚡ ______//_______ "
@@ -2775,7 +2801,7 @@ InfoTitle.Position = UDim2.new(0,5,0,5)
 
 -- SUBTITLE
 local InfoSub = AddInfoText(
-	"💜 YOUR HUB • ALWAYS EVOLVING 💜",
+	"💜 YOUR HUB • ALWAYS EVOLVING 💜 ",
 	Purple,
 	26,
 	true
@@ -2793,7 +2819,7 @@ NoteTitle.Position = UDim2.new(0,5,0,72)
 
 -- NOTE MESSAGE
 local NoteMessage = AddInfoText(
-	"So, this is my hub, and I'll keep updating it with new features! 🚀 If you face any bugs or problems, please let me know so I can fix them and make the hub even better luv u all ALPHA EMPIRE ⛩️ members 🫠 and all Thanks for supporting AAYAN V3! 👽💜 ",
+	"So, this is my hub, and I'll keep updating it with new features! 🚀 If you face any bugs or problems, please let me know so I can fix them and make the hub even better luv u all ALPHA EMPIRE ⛩️ members 🫠 and all Thanks for supporting AAYAN V3! 👽💜                                                       AND THANKS TO MAXU (AE_MAX AGAR TU NA HOTA TO AJJ MAI YAHAN NHI HOTA BHAI THANK YOU 💗 FOR SUPPORTING ME IN EVERY SITUATION 🎀🤧",
 	White,
 	100,
 	false
